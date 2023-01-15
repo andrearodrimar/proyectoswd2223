@@ -43,5 +43,14 @@
         "alt": "Logotip de la Web",
         "texto": "PlayRN és una pàgina sobre el món dels videojocs",
         "url": "https://bielgr28.github.io/projecte2/"
+      },
+      {
+        "id": 6,
+        "autor": "Andrea Rodríguez, Ainhoa Oliver",
+        "titulo": "A&A Portfolio",
+        "srcimg": "https://andrearodrimar.github.io/portfolio/img/Imagen2.4aaa0d5e.jpg",
+        "alt": "A&A Portfolio",
+        "texto": "A&A es un portfolio de las estudiantes Andrea y Ainhoa.",
+        "url": "https://andrearodrimar.github.io/portfolio/"
       }
 ]
